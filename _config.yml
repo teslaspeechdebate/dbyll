@@ -5,29 +5,20 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+title: Tesla Speech & Debate Team
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Tesla Speech & Debate Team
 
-description: Stylish Jekyll Theme
+description: Resources, Info, Cases
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Tesla Speech & Debate Team
+  email: teslaspeechdebate@gmail.com
 
-rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
